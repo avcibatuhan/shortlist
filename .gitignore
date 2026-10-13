@@ -1,0 +1,26 @@
+# Secrets and local data (never commit)
+.env
+data/
+
+# Python
+.venv/
+__pycache__/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Frontend
+node_modules/
+dist/
+
+# Desktop / editor
+.directory
+.vscode/
+.idea/
+design/
+
+# Development notes (kept on this machine only)
+CLAUDE.md
+design-agent.md
+spec.md
+CHANGELOG.md

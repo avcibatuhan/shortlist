@@ -1,0 +1,321 @@
+[
+ {
+  "key": "0000000000000001",
+  "url": "https://de.indeed.com/viewjob?jk=0000000000000001",
+  "title": "Java Backend Entwickler (m/w/d)",
+  "jobUrl": "https://jobs.example.com/apply/0000000000000001?source=Indeed",
+  "refNum": "00000000-0000-4000-8000-000000000001",
+  "datePublished": "2026-10-12T05:00:00.000Z",
+  "dateOnIndeed": "2026-10-12T13:17:09.623Z",
+  "expired": false,
+  "expirationDate": null,
+  "isRepost": null,
+  "isLatestPost": null,
+  "isPlacement": null,
+  "isUrgentHire": false,
+  "isHighVolumeHiring": false,
+  "language": "de",
+  "location": {
+   "countryName": "Deutschland",
+   "countryCode": "DE",
+   "admin1Code": "BE",
+   "admin2Code": "11000",
+   "admin3Code": "",
+   "admin4Code": "",
+   "city": "Berlin",
+   "postalCode": "10115",
+   "streetAddress": "Musterstraße 1",
+   "latitude": 52.52,
+   "longitude": 13.4
+  },
+  "employer": {
+   "name": "Beispiel Software GmbH",
+   "companyPageUrl": "https://de.indeed.com/cmp/Example-1",
+   "briefDescription": "Ein mittelständisches Softwareunternehmen.",
+   "address": "Berlin",
+   "industry": "",
+   "employeesCount": "51 to 200",
+   "revenue": "",
+   "ceoName": "",
+   "ceoPhotoUrl": "",
+   "corporateWebsite": "https://www.example.com",
+   "logoUrl": "https://www.example.com/logo.png",
+   "headerImageUrl": "",
+   "ratingsCount": 0,
+   "ratingsValue": 0
+  },
+  "parentEmployer": {
+   "name": "",
+   "companyPageUrl": ""
+  },
+  "attributes": {
+   "CF3CP": "Vollzeit",
+   "HCXZ9": "Software-Qualitätssicherung",
+   "JCKB4": "PostgreSQL",
+   "KBRYN": "Betriebliche Altersvorsorge",
+   "KDK2N": "Implementierung (Softwareentwicklungslebenszyklus)",
+   "MBGV2": "JPA",
+   "NMAVY": "Scrum",
+   "PYTWK": "Skalierbarkeit",
+   "QWSRZ": "Firmenevents",
+   "R2PBR": "Testdurchführung (Qualitätssicherungspraktiken)",
+   "SKFS2": "Kafka",
+   "TCC5V": "Analyse (Softwareentwicklungslebenszyklus)",
+   "TFBSU": "Kundenspezifische Lösungen (Systementwicklung)",
+   "WZ9TD": "Flexible Arbeitszeiten",
+   "XA6CW": "Entwurf (Lebenszyklus der Softwareentwicklung)",
+   "XH9RQ": "Spring",
+   "XMED8": "Deutsch",
+   "XRFGF": "Softwarearchitektur",
+   "YEVMY": "Hibernate"
+  },
+  "employerAttributes": {
+   "CF3CP": "Vollzeit"
+  },
+  "jobTypes": {
+   "CF3CP": "Vollzeit"
+  },
+  "benefits": {
+   "KBRYN": "Betriebliche Altersvorsorge",
+   "QWSRZ": "Firmenevents",
+   "WZ9TD": "Flexible Arbeitszeiten"
+  },
+  "socialInsurance": {},
+  "occupations": {
+   "5NN53": "Berufe in der Softwareentwicklung",
+   "EG6MP": "Backendentwickler*innen",
+   "EHPW9": "Berufe in der Informationstechnologie",
+   "HJSX6": "Berufe in der Softwareentwicklung und Softwarearchitektur"
+  },
+  "baseSalary": {
+   "min": null,
+   "max": null,
+   "unitOfWork": null,
+   "currencyCode": null
+  },
+  "description": {
+   "text": "Deine Rolle bei uns\n\nAls Softwareentwickler:in entwickelst du robuste Lösungen und bringst deine Expertise aktiv in ein crossfunktionales Team ein.\n\n* Java und Spring\n* PostgreSQL und Kafka",
+   "html": "<p>Deine Rolle bei uns</p><p>Als Softwareentwickler:in entwickelst du robuste Lösungen und bringst deine Expertise aktiv in ein crossfunktionales Team ein.</p><p>* Java und Spring\n* PostgreSQL und Kafka</p>"
+  }
+ },
+ {
+  "key": "0000000000000002",
+  "url": "https://de.indeed.com/viewjob?jk=0000000000000002",
+  "title": "Softwareentwickler / Fullstack Developer (m/w/d) React | C# / .NET | REST API",
+  "jobUrl": "https://jobs.example.com/apply/0000000000000002?source=Indeed",
+  "refNum": "00000000-0000-4000-8000-000000000002",
+  "datePublished": "2026-10-12T12:53:34.291Z",
+  "dateOnIndeed": "2026-10-12T12:53:34.291Z",
+  "expired": false,
+  "expirationDate": null,
+  "isRepost": null,
+  "isLatestPost": null,
+  "isPlacement": null,
+  "isUrgentHire": false,
+  "isHighVolumeHiring": false,
+  "language": "de",
+  "location": {
+   "countryName": "Deutschland",
+   "countryCode": "DE",
+   "admin1Code": "BE",
+   "admin2Code": "11000",
+   "admin3Code": "",
+   "admin4Code": "",
+   "city": "Berlin",
+   "postalCode": "10115",
+   "streetAddress": "Musterstraße 1",
+   "latitude": 52.52,
+   "longitude": 13.4
+  },
+  "employer": {
+   "name": "Muster Controlling GmbH & Co. KG",
+   "companyPageUrl": "https://de.indeed.com/cmp/Example-2",
+   "briefDescription": "",
+   "address": "Berlin",
+   "industry": "",
+   "employeesCount": "51 to 200",
+   "revenue": "",
+   "ceoName": "",
+   "ceoPhotoUrl": "",
+   "corporateWebsite": "https://www.example.com",
+   "logoUrl": "https://www.example.com/logo.png",
+   "headerImageUrl": "",
+   "ratingsCount": 0,
+   "ratingsValue": 0
+  },
+  "parentEmployer": {
+   "name": "",
+   "companyPageUrl": ""
+  },
+  "attributes": {
+   "3K96F": "Kostenloser Parkplatz",
+   "47KNR": "Performance tuning",
+   "5QGV8": "Cloud-Infrastruktur",
+   "75GKK": "Teilzeit",
+   "84K74": "React",
+   "8CW29": "Lebenslauf",
+   "8HSB4": "Webentwicklung",
+   "9B3V2": "Relationale Datenbanken",
+   "9VXTC": "Softwareverteilung",
+   "AGW49": ".NET Core",
+   "AP3T4": "C#",
+   "CF3CP": "Vollzeit",
+   "CJNDJ": "Wartung",
+   "D3N7S": "Git",
+   "FY75T": "Teilzeit möglich",
+   "KBRYN": "Betriebliche Altersvorsorge",
+   "KDK2N": "Implementierung (Softwareentwicklungslebenszyklus)",
+   "MG5WY": "REST",
+   "N83EH": "Homeoffice-Möglichkeit",
+   "NTJWX": "Berufseinsteiger*innen",
+   "PAXZC": "Hybrides Arbeiten",
+   "Q3S44": "Integration mit Drittanbieter-Diensten (Systementwicklung)",
+   "QWSRZ": "Firmenevents",
+   "STXCB": "Software-Support",
+   "UC5ZW": "SaaS",
+   "UJF52": "Künstliche Intelligenz",
+   "UXH7Y": "Weiterbildungsprogramme",
+   "VUW3C": "Vermögenswirksame Leistungen",
+   "WD7PP": "TypeScript",
+   "WZ9TD": "Flexible Arbeitszeiten",
+   "X6N9Z": "Betriebliche Weiterbildung",
+   "XEMGV": "Servermanagement",
+   "XRFGF": "Softwarearchitektur",
+   "Y72YJ": "Debugging",
+   "YQZJ8": "Kostenlose Getränke"
+  },
+  "employerAttributes": {
+   "3K96F": "Kostenloser Parkplatz",
+   "75GKK": "Teilzeit",
+   "84K74": "React",
+   "8HSB4": "Webentwicklung",
+   "9B3V2": "Relationale Datenbanken",
+   "AP3T4": "C#",
+   "CF3CP": "Vollzeit",
+   "D3N7S": "Git",
+   "FY75T": "Teilzeit möglich",
+   "KBRYN": "Betriebliche Altersvorsorge",
+   "N83EH": "Homeoffice-Möglichkeit",
+   "QWSRZ": "Firmenevents",
+   "UXH7Y": "Weiterbildungsprogramme",
+   "VUW3C": "Vermögenswirksame Leistungen",
+   "WZ9TD": "Flexible Arbeitszeiten",
+   "X6N9Z": "Betriebliche Weiterbildung",
+   "YQZJ8": "Kostenlose Getränke"
+  },
+  "jobTypes": {
+   "75GKK": "Teilzeit",
+   "CF3CP": "Vollzeit",
+   "FY75T": "Teilzeit möglich"
+  },
+  "benefits": {
+   "3K96F": "Kostenloser Parkplatz",
+   "KBRYN": "Betriebliche Altersvorsorge",
+   "N83EH": "Homeoffice-Möglichkeit",
+   "QWSRZ": "Firmenevents",
+   "UXH7Y": "Weiterbildungsprogramme",
+   "VUW3C": "Vermögenswirksame Leistungen",
+   "WZ9TD": "Flexible Arbeitszeiten",
+   "X6N9Z": "Betriebliche Weiterbildung",
+   "YQZJ8": "Kostenlose Getränke"
+  },
+  "socialInsurance": {},
+  "occupations": {
+   "5NN53": "Berufe in der Softwareentwicklung",
+   "EHPW9": "Berufe in der Informationstechnologie",
+   "HJSX6": "Berufe in der Softwareentwicklung und Softwarearchitektur"
+  },
+  "baseSalary": {
+   "min": 42300,
+   "max": 75000,
+   "unitOfWork": "YEAR",
+   "currencyCode": "EUR"
+  },
+  "description": {
+   "text": "Softwareentwickler / Fullstack Developer (m/w/d)\n\n*React | C# / .NET | REST API | SaaS*\n\nFestanstellung Teilzeit | Vollzeit | Hybrid\n\nWir suchen dich für die Weiterentwicklung unserer SaaS-Plattform.",
+   "html": "<p>Softwareentwickler / Fullstack Developer (m/w/d)</p><p>*React | C# / .NET | REST API | SaaS*</p><p>Festanstellung Teilzeit | Vollzeit | Hybrid</p><p>Wir suchen dich für die Weiterentwicklung unserer SaaS-Plattform.</p>"
+  }
+ },
+ {
+  "key": "0000000000000003",
+  "url": "https://de.indeed.com/viewjob?jk=0000000000000003",
+  "title": "System Developer Measurement Technology (m/f/d)",
+  "jobUrl": "https://jobs.example.com/apply/0000000000000003?source=Indeed",
+  "refNum": "00000000-0000-4000-8000-000000000003",
+  "datePublished": "2026-10-12T05:00:00.000Z",
+  "dateOnIndeed": "2026-10-12T13:17:09.623Z",
+  "expired": false,
+  "expirationDate": null,
+  "isRepost": null,
+  "isLatestPost": null,
+  "isPlacement": null,
+  "isUrgentHire": false,
+  "isHighVolumeHiring": false,
+  "language": "en",
+  "location": {
+   "countryName": "Deutschland",
+   "countryCode": "DE",
+   "admin1Code": "BE",
+   "admin2Code": "11000",
+   "admin3Code": "",
+   "admin4Code": "",
+   "city": "Berlin",
+   "postalCode": "10115",
+   "streetAddress": "Musterstraße 1",
+   "latitude": 52.52,
+   "longitude": 13.4
+  },
+  "employer": {
+   "name": "Example Medical Services SE",
+   "companyPageUrl": "https://de.indeed.com/cmp/Example-3",
+   "briefDescription": "Ein mittelständisches Softwareunternehmen.",
+   "address": "Berlin",
+   "industry": "",
+   "employeesCount": "51 to 200",
+   "revenue": "",
+   "ceoName": "",
+   "ceoPhotoUrl": "",
+   "corporateWebsite": "https://www.example.com",
+   "logoUrl": "https://www.example.com/logo.png",
+   "headerImageUrl": "",
+   "ratingsCount": 0,
+   "ratingsValue": 0
+  },
+  "parentEmployer": {
+   "name": "",
+   "companyPageUrl": ""
+  },
+  "attributes": {
+   "CF3CP": "Vollzeit",
+   "AP3T4": "C#"
+  },
+  "employerAttributes": {
+   "CF3CP": "Vollzeit"
+  },
+  "jobTypes": {
+   "CF3CP": "Vollzeit"
+  },
+  "benefits": {
+   "KBRYN": "Betriebliche Altersvorsorge",
+   "QWSRZ": "Firmenevents",
+   "WZ9TD": "Flexible Arbeitszeiten"
+  },
+  "socialInsurance": {},
+  "occupations": {
+   "5NN53": "Berufe in der Softwareentwicklung",
+   "EG6MP": "Backendentwickler*innen",
+   "EHPW9": "Berufe in der Informationstechnologie",
+   "HJSX6": "Berufe in der Softwareentwicklung und Softwarearchitektur"
+  },
+  "baseSalary": {
+   "min": null,
+   "max": null,
+   "unitOfWork": null,
+   "currencyCode": null
+  },
+  "description": {
+   "text": "As a System Developer you will design and build measurement systems for our production lines. We are looking for someone with experience in Python and C# who enjoys working with hardware teams. You will also be responsible for the documentation and for the support of our test engineers.",
+   "html": "<p>As a System Developer you will design and build measurement systems for our production lines. We are looking for someone with experience in Python and C# who enjoys working with hardware teams. You will also be responsible for the documentation and for the support of our test engineers.</p>"
+  }
+ }
+]

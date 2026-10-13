@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10
+      - uses: pnpm/action-setup@v6
+        with:
+          package_json_file: frontend/package.json
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: pnpm
+          cache-dependency-path: frontend/pnpm-lock.yaml
+      - name: Install
+        run: |
+          cd backend && uv sync --locked
+          cd ../frontend && pnpm install --frozen-lockfile
+      - run: make lint
+      - run: make test
+      - name: Generated API types are up to date
+        run: make gen-api-types && git diff --exit-code frontend/src/api/schema.d.ts
+      - name: End-to-end flow
+        run: |
+          cd frontend && pnpm exec playwright install --with-deps chromium
+          pnpm e2e

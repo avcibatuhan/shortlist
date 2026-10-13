@@ -1,0 +1,20 @@
+# Apify Actor prices in USD on the FREE plan, read from each Actor's pricing info on
+# 2026-10-13. Used for the cost estimate and for the hard charge cap passed to every Actor run.
+# Update here when an Actor's pricing changes (paid plans have lower LinkedIn/Indeed prices).
+#
+# per_start is charged once per Actor run, i.e. once per search.
+
+# curious_coder/linkedin-jobs-scraper
+linkedin:
+  per_1000_results: 2.00
+  per_start: 0.00005
+
+# valig/indeed-jobs-scraper
+indeed:
+  per_1000_results: 0.10
+  per_start: 0.001
+
+# memo23/stepstone-search-cheerio-ppr
+stepstone:
+  per_1000_results: 1.00
+  per_start: 0.005
